@@ -9,11 +9,11 @@ import tkinter
 import customtkinter
 ```
 
-## GUI
-https://postimg.cc/BLjwp5Bc
-https://postimg.cc/S2H1vXZ0
-https://postimg.cc/56dk5CYL
-https://postimg.cc/QK5YGXPF
-https://postimg.cc/F1JBJZRh
+## GUI Screenshots
+![Server Confirmation](server_confirmation.png)
+![Username Window](username_window.png)
+![Empty Chat Window](chat_window.png)
+![Chat Window 1](chat_window_1.png)
+![Chat Window 2](chat_window_2.png)
 
 
