@@ -10,10 +10,10 @@ import customtkinter
 ```
 
 ## GUI Screenshots
-![Server Confirmation](server_confirmation.png)
-![Username Window](username_window.png)
-![Empty Chat Window](chat_window.png)
-![Chat Window 1](chat_window_1.png)
-![Chat Window 2](chat_window_2.png)
+![Server Confirmation](Screenshots/server_confirmation.png)
+![Username Window](Screenshots/username_window.png)
+![Empty Chat Window](Screenshots/chat_window.png)
+![Chat Window 1](Screenshots/chat_window_1.png)
+![Chat Window 2](Screenshots/chat_window_2.png)
 
 
