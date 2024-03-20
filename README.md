@@ -10,10 +10,10 @@ import customtkinter
 ```
 
 ## GUI Screenshots
-Server Side Confirmation:
+Server Side Confirmation:                                              
 ![Server Confirmation](Screenshots/server_confirmation.png)
 
-Enter Username Window on Client Side:
+Enter Username Window on Client Side:                                
 ![Username Window](Screenshots/username_window.png)
 
 Chat Window with no Text on Client Side:
